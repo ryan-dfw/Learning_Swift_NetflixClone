@@ -21,6 +21,7 @@
 		948A01722C3488430037B217 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 948A01712C3488430037B217 /* APICaller.swift */; };
 		948A01742C348CB60037B217 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 948A01732C348CB60037B217 /* Movie.swift */; };
 		948A01762C34907F0037B217 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 948A01752C34907F0037B217 /* Extensions.swift */; };
+		948A01782C3493DF0037B217 /* Tv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 948A01772C3493DF0037B217 /* Tv.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		948A01712C3488430037B217 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		948A01732C348CB60037B217 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		948A01752C34907F0037B217 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		948A01772C3493DF0037B217 /* Tv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tv.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				948A01732C348CB60037B217 /* Movie.swift */,
+				948A01772C3493DF0037B217 /* Tv.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -220,6 +223,7 @@
 				947C823D2C338CBE00529810 /* SceneDelegate.swift in Sources */,
 				948A01632C3449690037B217 /* UpcomingViewController.swift in Sources */,
 				948A01742C348CB60037B217 /* Movie.swift in Sources */,
+				948A01782C3493DF0037B217 /* Tv.swift in Sources */,
 				948A01612C34492F0037B217 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
